@@ -1,2 +1,2 @@
 # terraform-aws-eventbridge-scheduler
-This module is used to create AWS event bridge scheduler to trigger lambda service
+This module is used to create evenbridge scheduler to trigger lambda functions
